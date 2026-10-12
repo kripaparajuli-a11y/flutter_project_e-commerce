@@ -1,7 +1,7 @@
 # MyShop – Mini E-Commerce Flutter App
 
 **Student Name:** Kripa Parajuli
-**Student ID:** _2510112344_
+**Student ID:** 2510112344
 **Course:** CIS099-2 Mobile Application Development (Flutter)
 **Instructor:** Milan Yadav
 
@@ -27,9 +27,10 @@ payment or database).
 
 | Home Page | Category Page | Product Details |
 |-----------|---------------|-----------------|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
-
-(Put images in a `screenshots/` folder and link them here.)
+| <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (4)" src="https://github.com/user-attachments/assets/0c4a8d45-860f-4db1-98bb-bbc4c6e2037f" />
+ | <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (7)" src="https://github.com/user-attachments/assets/7efacfc2-d0a0-470d-91e7-46750e18a7c7" />
+ | <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (8)" src="https://github.com/user-attachments/assets/c9e01049-9211-4066-bfc4-b4ed900da74f" />
+ |
 
 ## Packages Used
 
@@ -57,8 +58,8 @@ lib/
 ## How to Run
 
 ```bash
-git clone https://github.com/<username>/mini-ecommerce-flutter.git
-cd mini-ecommerce-flutter
+git clone https://github.com/kripaparajuli-a11y/flutter_project_e-commerce.git
+cd flutter_project_e-commerce
 flutter pub get
 flutter run
 ```
