@@ -27,9 +27,7 @@ payment or database).
 
 | Home Page | Category Page | Product Details |
 |-----------|---------------|-----------------|
-| <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (4)" src="https://github.com/user-attachments/assets/0c4a8d45-860f-4db1-98bb-bbc4c6e2037f" />
- | <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (7)" src="https://github.com/user-attachments/assets/7efacfc2-d0a0-470d-91e7-46750e18a7c7" />
- | <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (8)" src="https://github.com/user-attachments/assets/c9e01049-9211-4066-bfc4-b4ed900da74f" />
+| <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (4)" src="https://github.com/user-attachments/assets/0c4a8d45-860f-4db1-98bb-bbc4c6e2037f" />| <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (7)" src="https://github.com/user-attachments/assets/7efacfc2-d0a0-470d-91e7-46750e18a7c7" />| <img width="370" height="767" alt="mobile-iPhone_17_Pro_Max (8)" src="https://github.com/user-attachments/assets/c9e01049-9211-4066-bfc4-b4ed900da74f" />
  |
 
 ## Packages Used
